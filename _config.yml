@@ -2,7 +2,7 @@ title: Academia Arena
 description: A homepage for the Academia Arena application.
 google_analytics:
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-Midnight
 
 gems:
   - jekyll-mentions
