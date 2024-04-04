@@ -3,14 +3,18 @@
 ## Table of contents
 
 * [Overview](#overview)
+* [Deployment](#deployment)
 * [Project Goals](#project-goals)
-* [What This Project Will Provide]("#provides")
-* [User Guide]("#user-guide")
+* [What This Project Will Provide](#provides)
+* [User Guide](#user-guide)
 * [Team](#team)
 * [Links](#links)
 
 ## Overview
 The purpose of this web application is to help incoming students or continuing ICS students, especially those who feel disconnected from their professors, connect with them and learn about them more easily. Inspired by trading card games such as [Magic: The Gathering](https://magic.wizards.com/en), [Pokemon](https://www.pokemon.com/us/pokemon-tcg), [Yu-Gi-Oh](https://www.yugioh-card.com/en/), Academia Arena: ICS Edition revolves around collectible cards that contain information about the professors on the UH Manoa campus. The information on the card includes a headshot image, the version of the card (ex: "ICS 314 Spring 2024", "ICS 311 Fall 2023", etc.), fun facts, projects they may have worked on, and the rarity of the card. This platform provides an opportunity for students to meet and interact with others who may have the same class, providing an alleyway to find friends with shared academic interests or professors. 
+
+## Deployment
+The application has yet to be deployed to digital ocean.
 
 ## Project Goals
 * Learn more about the professors at UH Manoa
@@ -24,19 +28,22 @@ The goal of this project is to provide a fun and interactive way for students to
 This section provides a walkthrough of the Academia Arena interface and its capabilities. As we are still in the planning stages, this section currently consists of mockup pages that we plan on incorporating into our final application.
 
 ### Landing Page
-The landing page is presented to users when they visit the top-level URL to the site. It provides a general description of our application and gives the user the option to Login, Sign Up, or visit our github page. <br/>
+The landing page is presented to users when they visit the top-level URL to the site. It provides a general description of our application and gives the user the option to Login, Sign Up, or visit our github page.
+\
 <img src="images/LandingPageMockup.png"/>
 
 ### Login and Sign Up Page
 
 ### Card Collection Page
-The Card Collection Page displays the cards associated with the user currently logged in. These are the cards that this user has obtained through the application. <br/>
+The Card Collection Page displays the cards associated with the user currently logged in. These are the cards that this user has obtained through the application. 
+\
 <img src="images/CardCollectionMockup.png"/>
 
 ### Admin Page
 
 ## Team
-* Erin Patterson
+Academia Arena is designed, implimented, and maintained by:
+* [Erin Patterson](https://erinlpat.github.io)
 * Elsa Wong
 * Carlo Viloria
 * Michaella Villanueva
