@@ -53,11 +53,11 @@ The Admin Page allows admin access to view the entire cards collection, add new 
 ## Team
 Academia Arena is designed, implimented, and maintained by:
 * [Erin Patterson](https://erinlpat.github.io)
-* Elsa Wong
-* Carlo Viloria
+* [Elsa Wong](https://elsawong1.github.io/)
+* [Carlo Viloria](https://carloviloria.github.io/)
 * [Michaella Villanueva](https://mvchaella.github.io)
-* Vanessa Nishi 
-* Yu Fang Ma
+* [Vanessa Nishi](https://vanessanishi.github.io/) 
+* [Yu Fang Ma](https://yu-fang-ma.github.io/)
 
 ## Links
 <a href="https://docs.google.com/document/d/1SX2wGUCBZ31Wb7rdrtAn-oDDah1WFSVJwvAtU1mxPSc/edit?usp=sharing" target="_blank">Team Contract</a>
