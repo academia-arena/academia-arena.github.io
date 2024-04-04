@@ -19,3 +19,7 @@ The purpose of this web application is to help incoming students or continuing I
 
 ## Team Contract
 View the Team Contract: <a href="https://docs.google.com/document/d/1SX2wGUCBZ31Wb7rdrtAn-oDDah1WFSVJwvAtU1mxPSc/edit?usp=sharing" target="_blank">Here!</a>
+
+## GitHub Organization
+<a href="https://github.com/academia-arena">Link to our GitHub Organization</a>
+
