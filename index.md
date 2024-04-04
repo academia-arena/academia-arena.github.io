@@ -33,3 +33,6 @@ View the Team Contract: <a href="https://docs.google.com/document/d/1SX2wGUCBZ31
 ## GitHub Organization
 <a href="https://github.com/academia-arena">Link to our GitHub Organization</a>
 
+## Milestone 1 Project Board
+View <a href="https://github.com/orgs/academia-arena/projects/1/views/6">Milestone 1</a>
+
