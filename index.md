@@ -18,4 +18,4 @@ The purpose of this web application is to help incoming students or continuing I
 * Yu Fang Ma
 
 ## Team Contract
-View the Team Contract: <a href="https://docs.google.com/document/d/1SX2wGUCBZ31Wb7rdrtAn-oDDah1WFSVJwvAtU1mxPSc/edit?usp=sharing" _blank>Here!</a>
+View the Team Contract: <a href="https://docs.google.com/document/d/1SX2wGUCBZ31Wb7rdrtAn-oDDah1WFSVJwvAtU1mxPSc/edit?usp=sharing" target="_blank">Here!</a>
