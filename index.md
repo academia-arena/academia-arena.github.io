@@ -31,8 +31,8 @@ The goal of this project is to provide a fun and interactive way for students to
 View the Team Contract: <a href="https://docs.google.com/document/d/1SX2wGUCBZ31Wb7rdrtAn-oDDah1WFSVJwvAtU1mxPSc/edit?usp=sharing" target="_blank">Here!</a>
 
 ## GitHub Organization
-<a href="https://github.com/academia-arena">Link to our GitHub Organization</a>
+<a href="https://github.com/academia-arena" target="_blank">Link to our GitHub Organization</a>
 
 ## Milestone 1 Project Board
-View <a href="https://github.com/orgs/academia-arena/projects/1/views/6">Milestone 1</a>
+View <a href="https://github.com/orgs/academia-arena/projects/1/views/6" target="_blank">Milestone 1</a>
 
