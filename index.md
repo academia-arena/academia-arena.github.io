@@ -4,7 +4,7 @@
 
 * [Overview](#overview)
 * [Project Goals](#project-goals)
-* [What This Project Will Provide]("provides")
+* [What This Project Will Provide]("#provides")
 * [User Guide]("#user-guide")
 * [Team](#team)
 * [Links](#links)
