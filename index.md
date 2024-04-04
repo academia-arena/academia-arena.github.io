@@ -25,11 +25,13 @@ This section provides a walkthrough of the Academia Arena interface and its capa
 
 ### Landing Page
 The landing page is presented to users when they visit the top-level URL to the site.
+<img src="images/LandingPageMockup.png"/>
 
 ### Login and Sign Up Page
 
 ### Card Collection Page
 The Card Collection Page displays the cards associated with the user currently logged in. These are the cards that this user has obtained through the application.
+<img src="images/CardCollectionMockup.png"/>
 
 ### Admin Page
 
