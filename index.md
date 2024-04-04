@@ -24,13 +24,13 @@ The goal of this project is to provide a fun and interactive way for students to
 This section provides a walkthrough of the Academia Arena interface and its capabilities. As we are still in the planning stages, this section currently consists of mockup pages that we plan on incorporating into our final application.
 
 ### Landing Page
-The landing page is presented to users when they visit the top-level URL to the site.
+The landing page is presented to users when they visit the top-level URL to the site. It provides a general description of our application and gives the user the option to Login, Sign Up, or visit our github page. <br/>
 <img src="images/LandingPageMockup.png"/>
 
 ### Login and Sign Up Page
 
 ### Card Collection Page
-The Card Collection Page displays the cards associated with the user currently logged in. These are the cards that this user has obtained through the application.
+The Card Collection Page displays the cards associated with the user currently logged in. These are the cards that this user has obtained through the application. <br/>
 <img src="images/CardCollectionMockup.png"/>
 
 ### Admin Page
