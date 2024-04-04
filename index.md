@@ -33,6 +33,12 @@ The landing page is presented to users when they visit the top-level URL to the 
 <img src="images/LandingPageMockup.png"/>
 
 ### Login and Sign Up Page
+The Login Page allows existing users to input their username and password in order to gain into their accounts. It also provides links for users to reset their username/password, and a link to users who do not have an existing account. The Sign Up Page allows new users to create an account by inputing their desired username, email address, and password. This page also contains links for users who already have an existing account.
+<div class="text-center p-4">
+  <img width="500px" src="images/LoginPageMockUp.png" class="img-thumbnail" >
+  <img width="500px" src="images/SignUpPageMockUp.png" class="img-thumbnail" >
+</div>
+
 
 ### Card Collection Page
 The Card Collection Page displays the cards associated with the user currently logged in. These are the cards that this user has obtained through the application. 
@@ -40,13 +46,16 @@ The Card Collection Page displays the cards associated with the user currently l
 <img src="images/CardCollectionMockup.png"/>
 
 ### Admin Page
+The Admin Page allows admin access to view the entire cards collection, add new cards, manage player accounts, and change general settings. The view cards page includes a search bar for admin to easily lookup any card in the system by name.
+\
+<img src="images/AdminPageMockUp.png"/>
 
 ## Team
 Academia Arena is designed, implimented, and maintained by:
 * [Erin Patterson](https://erinlpat.github.io)
 * Elsa Wong
 * Carlo Viloria
-* Michaella Villanueva
+* [Michaella Villanueva](https://mvchaella.github.io)
 * Vanessa Nishi 
 * Yu Fang Ma
 
