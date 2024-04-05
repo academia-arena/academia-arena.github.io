@@ -5,7 +5,7 @@
 * [Overview](#overview)
 * [Deployment](#deployment)
 * [Project Goals](#project-goals)
-* [What This Project Will Provide](#provides)
+* [What This Project Will Provide](#what-this-project-will-provide)
 * [User Guide](#user-guide)
 * [Team](#team)
 * [Links](#links)
@@ -29,8 +29,9 @@ This section provides a walkthrough of the Academia Arena interface and its capa
 
 ### Landing Page
 The landing page is presented to users when they visit the top-level URL to the site. It provides a general description of our application and gives the user the option to Login, Sign Up, or visit our github page.
-\
-<img src="images/LandingPageMockup.png"/>
+<div class="text-center">
+  <img src="images/LandingPageMockup.png"/>
+</div>
 
 ### Login and Sign Up Page
 The Login Page allows existing users to input their username and password in order to gain into their accounts. It also provides links for users to reset their username/password, and a link to users who do not have an existing account. The Sign Up Page allows new users to create an account by inputing their desired username, email address, and password. This page also contains links for users who already have an existing account.
@@ -42,13 +43,15 @@ The Login Page allows existing users to input their username and password in ord
 
 ### Card Collection Page
 The Card Collection Page displays the cards associated with the user currently logged in. These are the cards that this user has obtained through the application. 
-\
-<img src="images/CardCollectionMockup.png"/>
+<div class="text-center">
+  <img src="images/CardCollectionMockup.png"/>
+</div>
 
 ### Admin Page
 The Admin Page allows admin access to view the entire cards collection, add new cards, manage player accounts, and change general settings. The view cards page includes a search bar for admin to easily lookup any card in the system by name.
-\
-<img src="images/AdminPageMockUp.png"/>
+<div class="text-center">
+  <img src="images/AdminPageMockUp.png"/>
+</div>
 
 ## Team
 Academia Arena is designed, implimented, and maintained by:
@@ -60,7 +63,8 @@ Academia Arena is designed, implimented, and maintained by:
 * [Yu Fang Ma](https://yu-fang-ma.github.io/)
 
 ## Links
-<a href="https://docs.google.com/document/d/1SX2wGUCBZ31Wb7rdrtAn-oDDah1WFSVJwvAtU1mxPSc/edit?usp=sharing" target="_blank">Team Contract</a>
-<br><a href="https://github.com/academia-arena" target="_blank">GitHub Organization</a>
-<br><a href="https://github.com/orgs/academia-arena/projects/1/views/6" target="_blank">Milestone 1</a>
+See our [Team Contract](https://docs.google.com/document/d/1SX2wGUCBZ31Wb7rdrtAn-oDDah1WFSVJwvAtU1mxPSc/edit?usp=sharing) here!
 
+Visit our [Github Organization](https://github.com/academia-arena) here!
+
+Look at our goals for [Milestone 1](https://github.com/orgs/academia-arena/projects/1) at this project page!
