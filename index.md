@@ -69,4 +69,4 @@ Visit our [Github Organization](https://github.com/academia-arena) here!
 
 Look at our goals for [Milestone 1](https://github.com/orgs/academia-arena/projects/1) at this project page!
 
-Look at our goals for [Milestone 2](https://github.com/orgs/academia-arena/projects/2) at this project page!
+Look at our goals for [Milestone 2](https://github.com/orgs/academia-arena/projects/7) at this project page!
