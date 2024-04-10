@@ -36,8 +36,8 @@ The landing page is presented to users when they visit the top-level URL to the 
 ### Login and Sign Up Page
 The Login Page allows existing users to input their username and password in order to gain into their accounts. It also provides links for users to reset their username/password, and a link to users who do not have an existing account. The Sign Up Page allows new users to create an account by inputing their desired username, email address, and password. This page also contains links for users who already have an existing account.
 <div class="text-center p-4">
-  <img width="500px" src="images/SignUpPage.png" class="img-thumbnail" >
-  <img width="500px" src="images/LoginPage.png" class="img-thumbnail" >
+  <img src="images/SignUpPage.png" class="img-thumbnail" >
+  <img src="images/LoginPage.png" class="img-thumbnail" >
 </div>
 
 
