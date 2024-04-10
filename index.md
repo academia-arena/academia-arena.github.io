@@ -54,7 +54,7 @@ The Admin Page allows admin access to view the entire cards collection, add new 
 </div>
 
 ## Team
-Academia Arena is designed, implimented, and maintained by:
+Academia Arena is designed, implemented, and maintained by:
 * [Erin Patterson](https://erinlpat.github.io)
 * [Elsa Wong](https://elsawong1.github.io/)
 * [Carlo Viloria](https://carloviloria.github.io/)
