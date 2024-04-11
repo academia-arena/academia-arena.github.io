@@ -1,7 +1,9 @@
-# Academia Arena: ICS Edition
+<h1 style="text-align: center;">Academia Arena: ICS Edition</h1>
+
 <div class="text-center">
-  <img src="images/AcademiaArenaIcon.png"/>
+  <img src="images/AcademiaArenaIcon.png" style="width: 400px; height: auto;" />
 </div>
+
 <br>
 
 ## Table of contents
