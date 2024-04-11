@@ -52,6 +52,7 @@ The Admin Page allows admin access to view the entire cards collection, add new 
 <div class="text-center">
   <img src="images/AdminPageMockUp.png"/>
 </div>
+<br>
 
 ## Team
 Academia Arena is designed, implemented, and maintained by:
