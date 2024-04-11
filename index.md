@@ -30,29 +30,47 @@ This section provides a walkthrough of the Academia Arena interface and its capa
 ### Landing Page
 The landing page is presented to users when they visit the top-level URL to the site. It provides a general description of our application and gives the user the option to Login, Sign Up, or visit our github page.
 <div class="text-center">
-  <img src="images/LandingPageMockup.png"/>
+  <img src="images/Landing.png"/>
 </div>
+<br>
 
 ### Login and Sign Up Page
 The Login Page allows existing users to input their username and password in order to gain into their accounts. It also provides links for users to reset their username/password, and a link to users who do not have an existing account. The Sign Up Page allows new users to create an account by inputing their desired username, email address, and password. This page also contains links for users who already have an existing account.
 <div class="text-center p-4">
-  <img src="images/SignUpPage.png" class="img-thumbnail" >
-  <img src="images/LoginPage.png" class="img-thumbnail" >
+  <img src="images/SignUp.png" class="img-thumbnail" >
+  <img src="images/Login.png" class="img-thumbnail" >
 </div>
+<br>
 
-
-### Card Collection Page
+### Card Collection Page (Mockup)
 The Card Collection Page displays the cards associated with the user currently logged in. These are the cards that this user has obtained through the application. 
 <div class="text-center">
   <img src="images/CurrentCardCollection.png"/>
 </div>
+<br>
 
-### Admin Page
-The Admin Page allows admin access to view the entire cards collection, add new cards, manage player accounts, and change general settings. The view cards page includes a search bar for admin to easily lookup any card in the system by name.
+### Admin Page (Mockup)
+The Admin Page allows admin users access to view the entire cards collection, add new cards, manage player accounts, and change general settings. The view cards page includes a search bar for admin to easily lookup any card in the database system by name or battle stats.
 <div class="text-center">
   <img src="images/AdminPageMockUp.png"/>
 </div>
 <br>
+
+### Wishlist Page (Mockup)
+The Wishlist Page allows the user to add to a database a list of cards they are hoping to obtain through the random pull system of the app. The user may look through previews of already existing professor cards and "like" the previews to add that card to their wishlist. The wishlist gives the user a way to keep track of the cards, and the professors, they hope to learn more about.
+<div class="text-center">
+  <img src="images/WishlistMockup.png"/>
+</div>
+<br>
+
+### Card Pull Page (Mockup)
+The Card Pull Page will be the main mechanism for obtaining cards in the app's system. The user will be tasked with solving simple coding problems such as recalling underscore commands to gain points. Once the user gains a certain amount of points they will be able to pull for a professor card. The card obtained will then be automatically added into the user's collection for them to view when they want to learn about their professors or when they want to battle a fellow student.
+<div class="text-center">
+  <img src="images/PullPageMockup.png"/>
+  <img src="images/PullPageNoticeMockup.png"/>
+</div>
+<br>
+
 
 ## Team
 Academia Arena is designed, implemented, and maintained by:
