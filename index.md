@@ -44,7 +44,7 @@ The Login Page allows existing users to input their username and password in ord
 ### Card Collection Page
 The Card Collection Page displays the cards associated with the user currently logged in. These are the cards that this user has obtained through the application. 
 <div class="text-center">
-  <img src="images/CardCollectionMockup.png"/>
+  <img src="images/CurrentCardCollection.png"/>
 </div>
 
 ### Admin Page
