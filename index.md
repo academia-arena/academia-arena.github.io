@@ -52,14 +52,14 @@ The Login Page allows existing users to input their username and password in ord
 ### Card Collection Page (Mockup)
 The Card Collection Page displays the cards associated with the user currently logged in. These are the cards that this user has obtained through the application. 
 <div class="text-center">
-  <img src="images/CardCollection.png"/>
+  <img src="images/ViewCardCollection.png"/>
 </div>
 <br>
 
 ### Admin Page (Mockup)
 The Admin Page allows admin users access to view the entire cards collection, add new cards, manage player accounts, and change general settings. The view cards page includes a search bar for admin to easily lookup any card in the database system by name or battle stats.
 <div class="text-center">
-  <img src="images/AdminPageMockUp.png"/>
+  <img src="images/CardCollection.png"/>
 </div>
 <br>
 
