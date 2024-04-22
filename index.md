@@ -14,6 +14,7 @@
 * [Project Goals](#project-goals)
 * [What This Project Will Provide](#what-this-project-will-provide)
 * [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Team](#team)
 * [Links](#links)
 
@@ -78,6 +79,31 @@ The Card Pull Page will be the main mechanism for obtaining cards in the app's s
   <img src="images/PullPageNoticeMockup.png"/>
 </div>
 <br>
+
+## Developer Guide
+A walkthrough of how to download, install, run and modify this program. 
+
+1. Install Meteor ([see the latest installation instructions here](https://docs.meteor.com/install.html))
+2. Download a copy of the [academia-arena template](https://github.com/academia-arena/academia-arena)
+    - Click on the 'Use this template' button
+    - Select 'Create a new repository'
+    - Then clone this repository your local device and open with your chosen software editor.
+3. Install the Meteor libraries:
+    - cd into the app directory
+    - Run the command:
+         ```
+         $ meteor npm install
+         ```
+    - If installed successfully your terminal should look like this:
+4. Run the program with the command:
+     ```
+     $ meteor npm run start
+     ```
+     - Upon the initial run, you should see the default data being added.
+5. Check for ESLint errors with:
+     ```
+     $ meteor npm run lint
+     ```
 
 
 ## Team
