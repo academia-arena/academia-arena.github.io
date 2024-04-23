@@ -68,7 +68,7 @@ The Admin Page allows admin users access to view the entire cards collection, ad
 ### Wishlist Page (Mockup)
 The Wishlist Page allows the user to add to a database a list of cards they are hoping to obtain through the random pull system of the app. The user may look through previews of already existing professor cards and "like" the previews to add that card to their wishlist. The wishlist gives the user a way to keep track of the cards, and the professors, they hope to learn more about.
 <div class="text-center">
-  <img src="images/WishlistMockUp.png"/>
+  <img src="images/wishlist.png"/>
 </div>
 <br>
 
