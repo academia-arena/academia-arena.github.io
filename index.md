@@ -100,29 +100,48 @@ A walkthrough of how to download, install, run and modify this program.
      ```
      $ meteor npm run start
      ```
-     - Upon the initial run, you should see the default data being added.<br />
-             <code>$ meteor npm run start <br /><br />
-             > meteor-application-template-react@ start /Users/vanessanishi/Documents/GitHub/academia-arena-template/app
-             > meteor --no-release-check --exclude-archs web.browser.legacy,web.cordova --settings ../config/settings.development.json
-              [[[[[ ~/Documents/GitHub/academia-arena-template/app ]]]]]<br />
-            => Started proxy.                             
-            => Started HMR server.                        
-            => Started MongoDB.                           
-            I20240423-01:20:29.186(-10)? Creating the default user(s)
-            I20240423-01:20:29.232(-10)?   Creating user admin@foo.com.
-            I20240423-01:20:30.143(-10)?   Creating user john@foo.com.
-            I20240423-01:20:30.278(-10)? Creating default cards.
-            I20240423-01:20:30.278(-10)?   Adding: Johnson (admin@foo.com) 
-            I20240423-01:20:30.353(-10)?   Adding: Johnson (admin@foo.com) 
-            I20240423-01:20:30.358(-10)?   Adding: Johnson (admin@foo.com) 
-            I20240423-01:20:30.364(-10)?   Adding: Johnson (john@foo.com) 
-            I20240423-01:20:30.369(-10)?   Adding: Johnson (john@foo.com) 
-            I20240423-01:20:30.373(-10)?   Adding: Johnson (john@foo.com) 
-            ...
-            => Started your app.<br />
-            => App running at: http://localhost:3000/
-            I20240423-01:20:31.201(-10)? Monti APM: Connected
-             </code>
+     - Upon the initial run, you should see the default data being added.
+        <summary>
+        
+        ```
+        $ meteor npm run start
+
+        > meteor-application-template-react@ start /Users/vanessanishi/Documents/GitHub/academia-arena-template/app
+        > meteor --no-release-check --exclude-archs web.browser.legacy,web.cordova --settings ../config/settings.development.json
+        
+        [[[[[ ~/Documents/GitHub/academia-arena-template/app ]]]]]
+        
+        => Started proxy.                             
+        => Started HMR server.                        
+        => Started MongoDB.                           
+        I20240423-01:20:29.186(-10)? Creating the default user(s)
+        I20240423-01:20:29.232(-10)?   Creating user admin@foo.com.
+        I20240423-01:20:30.143(-10)?   Creating user john@foo.com.
+        I20240423-01:20:30.278(-10)? Creating default cards.
+        I20240423-01:20:30.278(-10)?   Adding: Johnson (admin@foo.com) 
+        I20240423-01:20:30.353(-10)?   Adding: Johnson (admin@foo.com) 
+        I20240423-01:20:30.358(-10)?   Adding: Johnson (admin@foo.com) 
+        I20240423-01:20:30.364(-10)?   Adding: Johnson (john@foo.com) 
+        I20240423-01:20:30.369(-10)?   Adding: Johnson (john@foo.com) 
+        I20240423-01:20:30.373(-10)?   Adding: Johnson (john@foo.com) 
+        I20240423-01:20:30.381(-10)? Creating all cards.
+        I20240423-01:20:30.382(-10)?   Adding: Port (admin@foo.com) 
+        I20240423-01:20:30.525(-10)?   Adding: Port (admin@foo.com) 
+        I20240423-01:20:30.528(-10)?   Adding: Port (admin@foo.com) 
+        I20240423-01:20:30.531(-10)?   Adding: Johnson (admin@foo.com) 
+        I20240423-01:20:30.535(-10)?   Adding: Johnson (admin@foo.com) 
+        I20240423-01:20:30.539(-10)?   Adding: Johnson (admin@foo.com) 
+        I20240423-01:20:30.544(-10)?   Adding: Narayan (admin@foo.com) 
+        I20240423-01:20:30.550(-10)?   Adding: Narayan (admin@foo.com) 
+        I20240423-01:20:30.555(-10)?   Adding: Narayan (admin@foo.com) 
+        => Started your app.
+        
+        => App running at: http://localhost:3000/
+        I20240423-01:20:31.201(-10)? Monti APM: Connected
+
+        ```
+        
+        </summary>
 6. Check for ESLint errors with:
      ```
      $ meteor npm run lint
