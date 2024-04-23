@@ -38,7 +38,7 @@ This section provides a walkthrough of the Academia Arena interface and its capa
 ### Landing Page
 The landing page is presented to users when they visit the top-level URL to the site. It provides a general description of our application and gives the user the option to Login, Sign Up, or visit our github page.
 <div class="text-center">
-  <img src="images/Landing.png"/>
+  <img src="images/LandingPage2.png"/>
 </div>
 <br>
 
@@ -50,14 +50,14 @@ The Login Page allows existing users to input their username and password in ord
 </div>
 <br>
 
-### Card Collection Page (Mockup)
+### Card Collection Page
 The Card Collection Page displays the cards associated with the user currently logged in. These are the cards that this user has obtained through the application. 
 <div class="text-center">
-  <img src="images/CardCollectionMockup.png"/>
+  <img src="images/CardCollection2.png"/>
 </div>
 <br>
 
-### Admin Page (Mockup)
+### Admin Page
 The Admin Page allows admin users access to view the entire cards collection, add new cards, manage player accounts, and change general settings. The view cards page includes a search bar for admin to easily lookup any card in the database system by name or battle stats.
 <div class="text-center">
   <img src="images/AddCardAdmin.png"/>
