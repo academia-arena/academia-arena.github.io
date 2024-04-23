@@ -86,7 +86,9 @@ A walkthrough of how to download, install, run and modify this program.
 1. Install Meteor ([see the latest installation instructions here](https://docs.meteor.com/install.html))
 2. Download a copy of the [academia-arena template](https://github.com/academia-arena/academia-arena)
     - Click on the 'Use this template' button
+      <img src="images/DeveloperGuide1.png"/>
     - Select 'Create a new repository'
+      <img src="images/DeveloperGuide2.png"/>
     - Then clone this repository your local device and open with your chosen software editor.
 3. Install the Meteor libraries:
     - cd into the app directory
