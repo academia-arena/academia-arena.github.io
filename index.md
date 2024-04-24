@@ -10,6 +10,7 @@
 ## Table of contents
 
 * [Overview](#overview)
+* [Activity Badges](#activity-badges)
 * [Deployment](#deployment)
 * [Project Goals](#project-goals)
 * [What This Project Will Provide](#what-this-project-will-provide)
@@ -20,6 +21,11 @@
 
 ## Overview
 The purpose of this web application is to help incoming students or continuing ICS students, especially those who feel disconnected from their professors, connect with them and learn about them more easily. Inspired by trading card games such as [Magic: The Gathering](https://magic.wizards.com/en), [Pokemon](https://www.pokemon.com/us/pokemon-tcg), [Yu-Gi-Oh](https://www.yugioh-card.com/en/), Academia Arena: ICS Edition revolves around collectible cards that contain information about the professors on the UH Manoa campus. The information on the card includes a headshot image, the version of the card (ex: "ICS 314 Spring 2024", "ICS 311 Fall 2023", etc.), fun facts, projects they may have worked on, and the rarity of the card. This platform provides an opportunity for students to meet and interact with others who may have the same class, providing an alleyway to find friends with shared academic interests or professors. 
+
+## Activity Badges
+[![commits](https://badgen.net/github/commits/academia-arena/academia-arena/main)](https://github.com/academia-arena/academia-arena/commits/main?icon=github&color=green)
+
+[![workflow](https://github.com/academia-arena/academia-arena/actions/workflows/ci.yml/badge.svg)](https://github.com/academia-arena/academia-arena/actions/workflows/ci.yml)
 
 ## Deployment
 [Academia Arena: ICS Edition](https://academia-arena.xyz)
