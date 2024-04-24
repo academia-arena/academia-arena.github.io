@@ -48,41 +48,54 @@ The landing page is presented to users when they visit the top-level URL to the 
 </div>
 <br>
 
+### Home Page
+The Home Page is the page the users will be greeted with after logging in. It allows users access to the full range of the app's functions and has visual decorations.
+<div class="text-center">
+  <img src="images/Homepage.png"/>
+</div>
+<br>
+
 ### Login and Sign Up Page
 The Login Page allows existing users to input their username and password in order to gain into their accounts. It also provides links for users to reset their username/password, and a link to users who do not have an existing account. The Sign Up Page allows new users to create an account by inputing their desired username, email address, and password. This page also contains links for users who already have an existing account.
 <div class="text-center p-4">
-  <img src="images/SignUp.png" class="img-thumbnail" >
   <img src="images/Login.png" class="img-thumbnail" >
+  <img src="images/Signup.png" class="img-thumbnail" >
 </div>
 <br>
 
 ### Card Collection Page
 The Card Collection Page displays the cards associated with the user currently logged in. These are the cards that this user has obtained through the application. 
 <div class="text-center">
-  <img src="images/CardCollection2.png"/>
+  <img src="images/CardCollection.png"/>
 </div>
 <br>
 
 ### Admin Page
 The Admin Page allows admin users access to view the entire cards collection, add new cards, manage player accounts, and change general settings. The view cards page includes a search bar for admin to easily lookup any card in the database system by name or battle stats.
 <div class="text-center">
-  <img src="images/AddCardAdmin.png"/>
-  <img src="images/CardCollection.png"/>
+  <img src="images/AdminCollection.png"/>
+  <img src="images/AdminAddCard.png"/>
 </div>
 <br>
 
-### Wishlist Page (Mockup)
+### Wishlist Page
 The Wishlist Page allows the user to add to a database a list of cards they are hoping to obtain through the random pull system of the app. The user may look through previews of already existing professor cards and "like" the previews to add that card to their wishlist. The wishlist gives the user a way to keep track of the cards, and the professors, they hope to learn more about.
 <div class="text-center">
   <img src="images/wishlist.png"/>
 </div>
 <br>
 
-### Card Pull Page (Mockup)
+### Card Pull Page
 The Card Pull Page will be the main mechanism for obtaining cards in the app's system. The user will be tasked with solving simple coding problems such as recalling underscore commands to gain points. Once the user gains a certain amount of points they will be able to pull for a professor card. The card obtained will then be automatically added into the user's collection for them to view when they want to learn about their professors or when they want to battle a fellow student.
 <div class="text-center">
-  <img src="images/PullPageMockup.png"/>
-  <img src="images/PullPageNoticeMockup.png"/>
+  <img src="images/PullPage.png"/>
+</div>
+<br>
+
+### Marketplace
+The Marketplace page will allow users to trade cards with other users. Users may post cards that belong to their own collection to the Marketplace for any other user to obtain and browse other users' posted cards to obtain for themselves. Users will be limited to obtaining one card a day from the Marketplace.
+<div class="text-center">
+  <img src="images/Marketplace.png"/>
 </div>
 <br>
 
