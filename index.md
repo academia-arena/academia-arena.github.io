@@ -168,7 +168,10 @@ A walkthrough of how to download, install, run and modify this program.
 
 
 ## Team
-Academia Arena is designed, implemented, and maintained by:
+Academia Arena is designed, implemented, and maintained by:<br />
+<img src="images/Vanessa.png" width="100px"/><br />
+[Vanessa Nishi](https://vanessanishi.github.io/) 
+
 * [Erin Patterson](https://erinlpat.github.io)
 * [Elsa Wong](https://elsawong1.github.io/)
 * [Carlo Viloria](https://carloviloria.github.io/)
