@@ -128,18 +128,19 @@ A walkthrough of how to download, install, run and modify this program.
 
 ## Team
 Academia Arena is designed, implemented, and maintained by:<br />
-<table>
+<table style="border: none;">
   <tr>
-    <td align="center"><a href="https://erinlpat.github.io"><img src="images/erin-modified.png" width="100px;" alt=""/><br /><sub><b>Erin Patterson</b></sub></a></td>
-    <td align="center"><a href="https://elsawong1.github.io/"><img src="images/elsa-modified.png" width="100px;" alt=""/><br /><sub><b>Elsa Wong</b></sub></a></td>
-    <td align="center"><a href="https://carloviloria.github.io/"><img src="images/carlo-modified.png" width="100px;" alt=""/><br /><sub><b>Carlo Viloria</b></sub></a></td>
+    <td style="border: none;" align="center"><a href="https://erinlpat.github.io"><img src="images/erin-modified.png" width="100px;" alt=""/><br /><sub><b>Erin Patterson</b></sub></a></td>
+    <td style="border: none;" align="center"><a href="https://elsawong1.github.io/"><img src="images/elsa-modified.png" width="100px;" alt=""/><br /><sub><b>Elsa Wong</b></sub></a></td>
+    <td style="border: none;" align="center"><a href="https://carloviloria.github.io/"><img src="images/carlo-modified.png" width="100px;" alt=""/><br /><sub><b>Carlo Viloria</b></sub></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://mvchaella.github.io"><img src="images/michaella-modified.png" width="100px;" alt=""/><br /><sub><b>Michaella Villanueva</b></sub></a></td>
-    <td align="center"><a href="https://vanessanishi.github.io/"><img src="images/Vanessa.png" width="100px;" alt=""/><br /><sub><b>Vanessa Nishi</b></sub></a></td>
-    <td align="center"><a href="https://yu-fang-ma.github.io/"><img src="images/yufang-modified.png" width="100px;" alt=""/><br /><sub><b>Yu Fang Ma</b></sub></a></td>
+    <td style="border: none;" align="center"><a href="https://mvchaella.github.io"><img src="images/michaella-modified.png" width="100px;" alt=""/><br /><sub><b>Michaella Villanueva</b></sub></a></td>
+    <td style="border: none;" align="center"><a href="https://vanessanishi.github.io/"><img src="images/Vanessa.png" width="100px;" alt=""/><br /><sub><b>Vanessa Nishi</b></sub></a></td>
+    <td style="border: none;" align="center"><a href="https://yu-fang-ma.github.io/"><img src="images/yufang-modified.png" width="100px;" alt=""/><br /><sub><b>Yu Fang Ma</b></sub></a></td>
   </tr>
 </table>
+
 
 ## Links
 See our [Team Contract](https://docs.google.com/document/d/1SX2wGUCBZ31Wb7rdrtAn-oDDah1WFSVJwvAtU1mxPSc/edit?usp=sharing) here!
