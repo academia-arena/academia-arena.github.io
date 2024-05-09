@@ -74,7 +74,6 @@ The Card Collection Page displays the cards associated with the user currently l
 The Admin Page allows admin users access to view the entire cards collection, add new cards, manage player accounts, and change general settings. The view cards page includes a search bar for admin to easily lookup any card in the database system by name or battle stats.
 <div class="text-center">
   <img src="images/AdminCollection2.png"/>
-  <img src="images/AdminAddCard.png"/>
 </div>
 <br>
 
@@ -88,14 +87,15 @@ The Wishlist Page allows the user to add to a database a list of cards they are 
 ### Card Pull Page
 The Card Pull Page will be the main mechanism for obtaining cards in the app's system. The user will be tasked with solving simple coding problems such as recalling underscore commands to gain points. Once the user gains a certain amount of points they will be able to pull for a professor card. The card obtained will then be automatically added into the user's collection for them to view when they want to learn about their professors or when they want to battle a fellow student.
 <div class="text-center">
-  <img src="images/PullPage.png"/>
+  <img src="images/Pullpage.png"/>
 </div>
 <br>
 
 ### Marketplace
-The Marketplace page will allow users to trade cards with other users. Users may post cards that belong to their own collection to the Marketplace for any other user to obtain and browse other users' posted cards to obtain for themselves. Users will be limited to obtaining one card a day from the Marketplace.
+The Marketplace page allows users to trade cards with other users. Users may post cards that belong to their own collection to the Marketplace for any other user to obtain and browse other users' posted cards to obtain for themselves.
 <div class="text-center">
-  <img src="images/Marketplace.png"/>
+  <img src="images/TradeMarket.png"/>
+  <img src="images/TradeListed.png"/>
 </div>
 <br>
 
