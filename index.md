@@ -73,9 +73,9 @@ The Card Collection Page displays the cards associated with the user currently l
 <br>
 
 ### Admin Page
-The Admin Page allows admin users access to view the entire cards collection, add new cards, manage player accounts, and change general settings. The view cards page includes a search bar for admin to easily lookup any card in the database system by name or battle stats.
+The Admin Page allows admin users access to view the entire cards collection, add new cards, view player accounts, and change general settings. The view cards page includes a search bar for admin to easily lookup any card in the database system by name or battle stats.
 <div class="text-center">
-  <img src="images/AdminCollection2.png"/>
+  <img src="images/AdminCollection.png"/>
 </div>
 <br>
 
