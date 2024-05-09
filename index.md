@@ -28,6 +28,8 @@ The purpose of this web application is to help incoming students or continuing I
 [![workflow](https://github.com/academia-arena/academia-arena/actions/workflows/ci.yml/badge.svg)](https://github.com/academia-arena/academia-arena/actions/workflows/ci.yml)
 
 ## Deployment
+View our web app here! 
+
 [Academia Arena: ICS Edition](https://academia-arena.xyz)
 
 ## Project Goals
